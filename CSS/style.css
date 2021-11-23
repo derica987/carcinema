@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&family=PT+Sans:ital,wght@1,700&display=swap');
+
+
+
+/*header*/
+h1{
+  font-family: 'Mochiy Pop P One', sans-serif;
+  font-family: 'PT Sans', sans-serif;
+  text-align: center;
+}
+
+
+
+.topnav {
+  text-decoration: none;
+  overflow: hidden;
+  background-color: AAB2B2;
+  width:100%;
+}
+
+.topnav a {
+  float: left;
+  color: #000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+.topnav a.active {
+  background-color: #36EEE0;
+  color: white;
+}
+
+/*header ends*/
+
+/*body starts*/
+
+.bgimage{
+    background: url("https://www.capetown.travel/wp-content/uploads/2019/10/The-Galileo-Open-Air-Cinema.jpg");
+    background-size: 100%;
+    width: 100%;
+    height: 200vh;
+}
+
+
+
+.text{
+    width: 100%;
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+
+}
+
+.btn{
+    background-color: #D12424;
+    color: white;
+    font-family: 'montserrat', sans-serif ;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 40px;
+    width: 150px;
+    margin-top: 25px;
+    border: 3px solid white;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: white;
+    color: black;
+}
+/*body ends*/
+
+/*footer starts here*/
+.footer-basic {
+  padding:40px 0;
+  background-color:#ffffff;
+}
+
+.footer-basic ul {
+  text-align:center;
+  font-size:18px;
+  line-height:1.6;
+  margin-bottom:0;
+}
+
+.footer-basic .social {
+  text-align:center;
+  padding-bottom:25px;
+}
+
+.footer-basic .social > a {
+  font-size:24px;
+  width:40px;
+  height:40px;
+  line-height:40px;
+  display:inline-block;
+  text-align:center;
+  border-radius:50%;
+  border:1px solid #000;
+  margin:0 10px;
+  color:#000;
+  opacity:0.75;
+}
+
+
+.footer-basic .copyright {
+  margin-top:15px;
+  text-align:center;
+  font-size:13px;
+}
+
+/*footer ends here */
+
+/*Venues page starts here*/
+.venues{
+    display: flex;
+    justify-content: space-between; 
+}
