@@ -34,7 +34,9 @@ h1{
 }
 
 .logo{
-    float:left;
+    float: left;
+    height: 100px;
+    width: 100px;
 }
 
 /*header ends*/
