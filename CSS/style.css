@@ -141,4 +141,6 @@ h1{
 
 .locationnames {
     display: flex;
+    justify-content: space-between; 
+    font-size:30px;
 }
