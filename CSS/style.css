@@ -152,3 +152,14 @@ h1{
     font-size:30px;
 }
 
+/*Venues page ends here*/
+/*Book tickets page starts here*/
+table,
+td,
+th {
+  padding: 10px;
+  border: 2px solid #1c87c9;
+  border-radius: 5px;
+  background-color: #e5e5e5;
+  text-align: center;
+}
