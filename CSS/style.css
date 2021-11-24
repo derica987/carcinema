@@ -171,9 +171,12 @@ table {
 
 .movies {
   width:300px;
-  height:300px;
 }
 
+.trailer{
+  width:300px;
+  height:300px;
+}
 .booktickets {
   text-align: center;
 }
