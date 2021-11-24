@@ -169,7 +169,11 @@ table {
   margin-right:auto;
 }
 
-movies {
+.movies {
   width:300px;
   height:300px;
+}
+
+.booktickets {
+  text-align: center;
 }
