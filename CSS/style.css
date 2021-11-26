@@ -170,12 +170,15 @@ table {
 }
 
 .movies {
-  width:300px;
+    width: 300px;
+    position: relative;
+    margin-right: 50px;
 }
 
 .trailer{
-  width:300px;
-  height:300px;
+    width: 700px;
+    height: 400px;
+    position: absolute;
 }
 .booktickets {
   text-align: center;
