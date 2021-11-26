@@ -188,3 +188,7 @@ table {
 .booktickets {
   text-align: center;
 }
+
+.movie-name {
+  font-size: x-large;
+}
