@@ -152,6 +152,10 @@ h1{
     font-size:30px;
 }
 
+.map-sub {
+  margin-right:20px;
+}
+
 /*Venues page ends here*/
 /*Book tickets page starts here*/
 table,
@@ -180,6 +184,7 @@ table {
     height: 400px;
     position: absolute;
 }
+
 .booktickets {
   text-align: center;
 }
