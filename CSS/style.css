@@ -264,7 +264,7 @@ table {
 }
 
 .img-box img{
-  position:aboslute;
+  position:absolute;
   top: 0;
   left:0;
   width:100%;
