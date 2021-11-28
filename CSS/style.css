@@ -194,38 +194,6 @@ table {
 }
 
 /*Gallery page starts here*/
-<div class = "all">
-  <div class="card">
-    <div class="img-box">
-    </div>
-    <div class="text">
-    </div>
-  </div>
- </div>
-
-<div class="all">
-  <div class="card">
-    <div class="img-box">
-      <img src="https://th.bing.com/th/id/R.82e22ed75534b8b1623f773f784cca40?rik=nFnssywQlBMhkA&pid=ImgRaw&r=0"
-    </div>
-    <div class="text">
-    </div>
-  </div>
- </div>
-
-<div class="all">
-  <div class="card">
-    <div class="img-box">
-    </div>
-    <div class="text">
-    </div>
-  </div>
- </div>
-
-
-
-
-
 
 body {
   margin: 0;
@@ -233,7 +201,7 @@ body {
   display: flex;
   align-items:center;
   justify-content: center;
-  min-height 100vh;
+  min-height: 100vh;
   font-family:tahoma;
   background:#18202f;
 }
