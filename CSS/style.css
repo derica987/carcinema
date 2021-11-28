@@ -195,7 +195,7 @@ table {
 
 /*Gallery page starts here*/
 
-body {
+.gallery {
   margin: 0;
   padding: 0;
   display: flex;
