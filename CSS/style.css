@@ -52,7 +52,7 @@ h1{
 
 
 
-.text{
+.hometext{
     width: 100%;
     text-transform: uppercase;
     text-align: center;
@@ -202,7 +202,6 @@ table {
   align-items:center;
   justify-content: center;
   font-family:tahoma;
-  background:#18202f;
 }
 
 .all {
