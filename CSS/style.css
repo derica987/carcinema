@@ -339,8 +339,8 @@ table {
   resize: none;
   height: 80px;
 }
-/*
-.wrapper .btn input[type="submit"]{
+
+.wrapper .butn input[type="submit"]{
     background-color: #F652A0;
     color: white;
     font-family: 'montserrat', sans-serif ;
@@ -353,7 +353,6 @@ table {
     cursor: pointer;
     text-align:center;
 }
-*/
 #error_message{
   margin-bottom: 20px;
   background: #fe8b8e;
