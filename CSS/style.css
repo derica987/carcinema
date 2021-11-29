@@ -297,30 +297,19 @@ table {
 /*Contact us page starts here*/
 @import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
 
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  outline: none;
-  font-family: 'Josefin Sans', sans-serif;
-}
-
-body{
-  background: #fece0c;
-}
 
 .wrapper{
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%,-50%);
-  max-width: 350px;
-  width: 100%;
-  background: #fff;
+  width: 33%;
+  background: #479884;
   padding: 25px;
   border-radius: 5px;
-  box-shadow: 4px 4px 2px rgba(254,236,164,1); 
 }
+
+
 
 .wrapper h2{
   text-align: center;
@@ -335,10 +324,14 @@ body{
 }
 
 .wrapper .input_field input[type="text"],
-.wrapper textarea{
+{
   border: 1px solid #e0e0e0;
-  width: 100%;
+  width: 33%;
   padding: 10px;
+}
+
+.wrapper textarea {
+  width:66%;
 }
 
 .wrapper textarea{
@@ -347,18 +340,17 @@ body{
 }
 
 .wrapper .btn input[type="submit"]{
-  border: 0px;
-  margin-top: 15px;
-  padding: 10px;
-  text-align: center;
-  width: 100%;
-  background: #fece0c;
-  color: #332902;
-  text-transform: uppercase;
-  letter-spacing: 5px;
-  font-weight: bold;
-  border-radius: 25px;
-  cursor: pointer;
+    background-color: #F652A0;
+    color: white;
+    font-family: 'montserrat', sans-serif ;
+    font-size: 15px;
+    font-weight: bold;
+    line-height: 40px;
+    width: 150px;
+    margin-top: 25px;
+    border-radius:5px;
+    cursor: pointer;
+    text-align:center;
 }
 
 #error_message{
