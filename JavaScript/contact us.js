@@ -11,6 +11,7 @@ function validate(){
     if(name.length < 5){
       text = "Please Enter valid Name";
       error_message.innerHTML = text;
+      console.log("fasf");
       return false;
     }
     
