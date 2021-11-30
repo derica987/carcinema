@@ -405,5 +405,21 @@ table {
   font-size: 0.9rem;
 }
 
+.footer-basic {
+  padding: 40px 0;
+  background-color: #F2F2F2;
+  position: absolute;
+  width: 100%;
+  top: 1000px;
+}
 
+.container {
+  /* width: 980px; */
+  margin-right: auto;
+  margin-left: auto;
+}
+
+profile-img{
+width:100%
+}
 
