@@ -481,3 +481,7 @@ h3 {
 .about{
   padding:10px;
 }
+
+.about text {
+  font-size: 20px;
+}
