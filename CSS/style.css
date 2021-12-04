@@ -410,7 +410,7 @@ table {
   background-color: #F2F2F2;
   position: absolute;
   width: 100%;
-  top: 1200px;
+  top: 2000px;
 }
 
 .container {
@@ -440,7 +440,7 @@ body{
    box-shadow: 1px 2px 4px rgba(0,0,0,.3);
 }
 
-.box .heading{
+.heading{
    background: #7800CF;
    border-radius: 7px 7px 0px 0px;
    padding: 10px;
@@ -471,4 +471,9 @@ details{
 
 details summary{
    outline: none;
+}
+
+.list,
+h3 {
+  padding:10px;
 }
