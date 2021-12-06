@@ -1,15 +1,21 @@
-@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&family=PT+Sans:ital,wght@1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&family=PT+Sans:ital,wght@1,700&family=Roboto:ital,wght@1,700;1,900&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&family=PT+Sans:ital,wght@1,700&family=Roboto:ital,wght@0,400;1,700;1,900&display=swap');
 
-
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&family=Mulish:wght@200&family=PT+Sans:ital,wght@1,700&family=Roboto:ital,wght@0,400;1,700;1,900&display=swap');
 /*header*/
 h1{
-  font-family: 'Mochiy Pop P One', sans-serif;
   font-family: 'PT Sans', sans-serif;
   text-align: center;
 }
 
+h2 {
+  font-family: 'Roboto', sans-serif;
+}
 
+.btn {
+  font-family: 'Mulish', sans-serif;
+}
 
 .topnav {
   text-decoration: none;
@@ -144,6 +150,7 @@ h1{
 
 .maps {
     justify-content: space-between; 
+    margin: 20px;
 }
 
 .locationnames {
@@ -270,12 +277,15 @@ table {
 }
 
 .text {
-  /*position :absolute;*/
   bottom: 10px;
   right: 10px;
   left:10px;
   height: 60px;
   text-align:center;
+}
+
+.gallerytext{
+  position:absolute;
 }
 
 .text h2 {
@@ -295,8 +305,6 @@ table {
 }
 
 /*Contact us page starts here*/
-@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
-
 
 .wrapper{
   position: relative;
@@ -426,7 +434,7 @@ width:100%
 
 /*additional info page starts here*/
 
-@import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
+
 
 body{
    background: #f6f6f6;
