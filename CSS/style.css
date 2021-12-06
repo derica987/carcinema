@@ -171,7 +171,7 @@ th {
   padding: 10px;
   border: 1px solid black;
   border-radius: 5px;
-  background-color: #e5e5e5;
+  background-color: #479884;
   text-align: center;
 }
 
@@ -184,6 +184,7 @@ table {
     width: 300px;
     position: relative;
     margin-right: 50px;
+    margin-left: 20px;
 }
 
 .trailer{
@@ -198,6 +199,9 @@ table {
 
 .movie-name {
   font-size: x-large;
+  background-color: #36EEE0;
+  border-radius: 10px;
+  margin: 10px;
 }
 
 /*Gallery page starts here*/
