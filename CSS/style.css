@@ -395,6 +395,7 @@ table {
   display: grid;
   grid-template-columns: repeat(auto-fit, 20rem);
   justify-content: center;
+  margin-top: 100px;
 }
 
 .container {
@@ -512,4 +513,7 @@ h3 {
 
 #mc_embed_signup form {
   background-color: #479884;
+  margin-top: 25px;
+  margin-bottom: 25px;
 }
+
