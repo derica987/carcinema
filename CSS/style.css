@@ -460,6 +460,11 @@ body{
    color: #fff;
    text-align: center;
    font-family: "Rubik";
+   font-size: 20px;
+}
+
+.link-style {
+ color:#36EEE0;
 }
 
 .faqs{
